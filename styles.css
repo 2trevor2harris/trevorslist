@@ -1,0 +1,15 @@
+nav {
+    background-color: rgb(206, 206, 206);
+}
+  body {
+    font-family: Arial, sans-serif;
+}
+h2 {
+    color: blue;
+}
+h1 {
+    color: blue;
+}
+h3.nounderline {
+    text-decoration: none;
+}
