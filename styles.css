@@ -19,6 +19,7 @@ h2 {
 }
 h1 {
     color: rgb(0, 0, 152);
+    padding: 10px;
 }
 p {
     font-size: 12pt;
@@ -58,4 +59,11 @@ img {
 }
 .indent {
     text-indent: 20px
+}
+.smallerbg {
+    background-color: rgb(44,44,44);
+    padding-top: 20px;
+    padding-right: 15px;
+    padding-bottom: 15 px;
+    padding-left: 15px;
 }
