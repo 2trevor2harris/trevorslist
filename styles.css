@@ -91,7 +91,7 @@ footer {
 }
 
 .isformat {
-  font-family: 'Courier Bold', monospace;
+  font-family: 'Courier Bold', 'Courier', monospace;
 }
 
 .sidenav {
