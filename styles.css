@@ -90,6 +90,10 @@ footer {
   align-items: center;
 }
 
+.isformat {
+  font-family: courier bold, monospace;
+}
+
 .sidenav {
   height: 100%;
   width: 200px;
